@@ -33,7 +33,7 @@ img {
 {
 	position: fixed;
 	width: 300px;
-	height: 100px;
+	height: 200px;
 	text-align: center;
 	line-height: 100px;
 	background-color: #021a40;
@@ -88,7 +88,7 @@ font-family: FontAwesome;
 	border-radius: 30px;
 	box-shadow: 11px 8px 7px #888;
 	color: Blue;
-	top: 250px;
-	left: 0px;
+	top: 750px;
+	left: 580px;
 	font-family:'Sancreek',cursive;
     }
