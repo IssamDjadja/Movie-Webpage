@@ -49,6 +49,9 @@ img {
 div.stars {
 width: 270px;
 display: inline-block;
+position:absolute;
+bottom: 20px;
+left: 300px;
 
 }
 input.star { display: none; }
