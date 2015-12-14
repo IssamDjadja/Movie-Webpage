@@ -95,4 +95,21 @@ font-family: FontAwesome;
 	left: 980px;
 	font-family:'Sancreek',cursive;
     }
+    
+    .speech2
+    {
+      position: fixed; 
+      width: 600px;
+    	height: 600px;
+    	text-align: center;
+    	line-height: 400px;
+    	background-color: #FF0000;
+    	border:8px solind- #666;
+    	border-radius: 40px;
+    	box-shadow: 11px 8px 7px #888;
+    	color: White;
+    	top: 200px;
+    	left: 1300px;
+    	font-family:'Sancreek',cursive;
+    }
 
