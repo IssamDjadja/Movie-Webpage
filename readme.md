@@ -41,7 +41,7 @@ ownersUsername.github.io/repo-name [20]
 
 Collaborator: if you wish to also own a copy, you may fork/clone after you submit the project.
 
-
+ 
 [20 points]
 Total
 [100 points]
