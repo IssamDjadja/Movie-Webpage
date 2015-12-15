@@ -1,7 +1,7 @@
 h1 {
    font-family:'Sancreek',cursive;
    text-align: center;
-   Color:green ;
+   Color: white ;
    background: url(blue.jpg);
    background-repeat: repeat;
    background-position: center;
@@ -26,6 +26,8 @@ img {
    background-color:#ff0;
    position: fixed;
    background-repeat: no-repeat;
+   top: 100px;
+   right: 500px;
 }
 
 .speech
@@ -85,13 +87,13 @@ font-family: FontAwesome;
 	width: 500px;
 	height: 100px;
 	text-align: center;
-	line-height: 100px;
-	background-color: #FFFF00;
+	line-height: 40px;
+	background-color: #FF6666;
 	border: 8px solid- #666;
-	border-radius: 30px;
+	border-radius: 100px;
 	box-shadow: 11px 8px 7px #888;
-	color: Blue;
-	top: 1150px;
+	color: white;
+	top: 790px;
 	left: 980px;
 	font-family:'Sancreek',cursive;
     }
