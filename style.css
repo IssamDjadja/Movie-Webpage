@@ -41,8 +41,8 @@ img {
 	border-radius: 100px;
 	box-shadow: 1px 1px 1px #888;
 	color: white;
-	top: 425px;
-	left: 520px;
+	top: 325px;
+	left: 620px;
 	font-family:'Sancreek',cursive;
     }
     
@@ -84,7 +84,7 @@ font-family: FontAwesome;
 {
 	position: fixed;
 	width: 375px;
-	height: 50px;
+	height: 40px;
 	text-align: center;
 	line-height: 40px;
 	background-color: #FF6666;
@@ -92,7 +92,7 @@ font-family: FontAwesome;
 	border-radius: 100px;
 	box-shadow: 11px 8px 7px #888;
 	color: white;
-	top: 790px;
+	top: 1200px;
 	left: 980px;
 	font-family:'Sancreek',cursive;
     }
@@ -101,17 +101,17 @@ font-family: FontAwesome;
     {
 
       position:fixed ; 
-      width: 600px;
+      width: 700px;
     	height: 600px;
     	text-align: center;
-    	line-height: 400px;
+    	line-height: 40px;
     	background-color: #FF6666;
     	border:8px solind- #666;
     	border-radius: 40px;
     	box-shadow: 11px 8px 7px #888;
     	color: White;
-    	top: 75px;
-    	left: 850px;
+    	top: 85px;
+    	left: 1850px;
     	font-family:'Sancreek',cursive;
     }
 
