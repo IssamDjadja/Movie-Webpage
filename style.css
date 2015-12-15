@@ -1,5 +1,6 @@
 h1 {
-   font-family:'Sancreek',cursive;
+   font-family:'Sancreek'
+   ,cursive;
    text-align: center;
    Color: white ;
    background: url(blue.jpg);
@@ -99,7 +100,7 @@ font-family: FontAwesome;
     
     .speech2
     {
-      position: fixed; 
+      position: fixed ; 
       width: 600px;
     	height: 600px;
     	text-align: center;
