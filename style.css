@@ -84,26 +84,16 @@ font-family: FontAwesome;
 .speech1
 {
 	position: fixed;
-<<<<<<< HEAD
-	width: 300px;
-	height: 45px;
-=======
 	width: 500px;
 	height: 100px;
->>>>>>> 341f6e7f53e882c5507cec67fcc264a5dc4eed03
 	text-align: center;
 	line-height: 40px;
 	background-color: #FF6666;
 	border: 8px solid- #666;
 	border-radius: 100px;
 	box-shadow: 11px 8px 7px #888;
-<<<<<<< HEAD
 	color: white;
 	top: 790px;
-=======
-	color: Blue;
-	top: 1150px;
->>>>>>> 341f6e7f53e882c5507cec67fcc264a5dc4eed03
 	left: 980px;
 	font-family:'Sancreek',cursive;
     }
