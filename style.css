@@ -13,7 +13,7 @@ h1 {
 body{
 font-size:24px;
 font-weight:bold;
-width:800px;
+width:2080px;
 background: url(color.png) no-repeat center center fixed ; 
 height:100%;
 background-size: cover;
@@ -26,7 +26,7 @@ img {
    position: fixed;
    background-repeat: no-repeat;
    top: 200px;
-   right: 1105px;
+   right: 1100px;
 }
 
 .speech
