@@ -124,3 +124,7 @@ font-family: FontAwesome;
  -webkit-background-clip: text;
   background-clip: text;
 }
+
+ubmit {
+    background-color: red;
+}
