@@ -99,9 +99,10 @@ font-family: FontAwesome;
     
     .speech2
     {
-      position: fixed; 
-      width: 1000px;
-    	height: 420px;
+
+      position:fixed ; 
+      width: 600px;
+    	height: 600px;
     	text-align: center;
     	line-height: 400px;
     	background-color: #FF6666;
