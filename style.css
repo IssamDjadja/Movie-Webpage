@@ -99,7 +99,7 @@ font-family: FontAwesome;
     
     .speech2
     {
-      position: fixed; 
+      position:fixed ; 
       width: 600px;
     	height: 600px;
     	text-align: center;
