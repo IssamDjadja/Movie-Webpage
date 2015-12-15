@@ -100,17 +100,17 @@ font-family: FontAwesome;
     .speech2
     {
       position: fixed; 
-      width: 600px;
-    	height: 600px;
+      width: 1000px;
+    	height: 420px;
     	text-align: center;
     	line-height: 400px;
-    	background-color: #FF0000;
+    	background-color: #FF6666;
     	border:8px solind- #666;
     	border-radius: 40px;
     	box-shadow: 11px 8px 7px #888;
     	color: White;
-    	top: 100px;
-    	left: 1300px;
+    	top: 75px;
+    	left: 850px;
     	font-family:'Sancreek',cursive;
     }
 
