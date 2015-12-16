@@ -3,18 +3,18 @@ h1 {
    ,cursive;
    text-align: center;
    Color: white ;
-   background: url(blue.jpg);
+   background: url(blue.jpg) ;
    background-repeat: repeat;
    background-position: center;
    margin: 1px;
-   width: 90%;
-   height: 200%;
+   width: 1900px;
+   height: 60px;
   }
 	 
 body{
 font-size:24px;
 font-weight:bold;
-width:2080px;
+width:100%;
 background: url(color.png) no-repeat center center fixed ; 
 height:100%;
 background-size: cover;
@@ -27,14 +27,15 @@ img {
    position: fixed;
    background-repeat: no-repeat;
    top: 100px;
-   right: 1085px;
+   right: 1055px;
+   float: left;
 }
 
 .speech
 {
 	position: fixed;
-	width: 300px;
-	height: 50px;
+	width: 150px;
+	height: 45px;
 	text-align: center;
 	line-height: 50px;
 	background-color: #021a40;
@@ -42,8 +43,8 @@ img {
 	border-radius: 100px;
 	box-shadow: 1px 1px 1px #888;
 	color: white;
-	top: 425px;
-	left: 520px;
+	top: 435px;
+	left: 690px;
 	font-family:'Sancreek',cursive;
     }
     
@@ -85,7 +86,7 @@ font-family: FontAwesome;
 {
 	position: fixed;
 	width: 375px;
-	height: 50px;
+	height: 40px;
 	text-align: center;
 	line-height: 40px;
 	background-color: #FF6666;
@@ -93,7 +94,7 @@ font-family: FontAwesome;
 	border-radius: 100px;
 	box-shadow: 11px 8px 7px #888;
 	color: white;
-	top: 790px;
+	top: 1200px;
 	left: 980px;
 	font-family:'Sancreek',cursive;
     }
@@ -101,18 +102,20 @@ font-family: FontAwesome;
     .speech2
     {
       position:fixed ; 
-      width: 600px;
-    	height: 600px;
+      width: 970px;
+    	height: 410px;
     	text-align: center;
-    	line-height: 400px;
+    	line-height: 50px;
     	background-color: #FF6666;
     	border:8px solind- #666;
     	border-radius: 40px;
     	box-shadow: 11px 8px 7px #888;
-    	color: White;
+    	color: Black;
     	top: 75px;
-    	left: 850px;
+    	left: 880px;
     	font-family:'Sancreek',cursive;
+    	background-size: cover;
+    	font-size:45;
     }
 
 
@@ -124,3 +127,63 @@ font-family: FontAwesome;
  -webkit-background-clip: text;
   background-clip: text;
 }
+
+input[type=submit] {
+   padding:5px 25px; 
+    background:#FFFF00; 
+    border:0 none;
+    cursor:pointer;
+   border-radius: 7px; 
+}
+
+ .speech3
+    {
+
+      position:fixed ; 
+      width: 550px;
+    	height: 150px;
+    	text-align: center;
+    	line-height: 30px;
+    	background-color: #FF6666;
+    	border:8px solind- #666;
+    	border-radius: 40px;
+    	box-shadow: 11px 8px 7px #888;
+    	color: Blue;
+    	top: 550px;
+    	left: 50px;
+    	font-family:'Sancreek',cursive;
+    	background-image:url(PopcornTime-icon.png);
+    	font-size: 20px;
+    }
+    #top, #bottom, #left, #right {
+	border:8px #a5ebff;
+	border-style: solid;
+	position: fixed;
+	}
+	#left, #right {
+		top: 0; bottom: 0;
+		width: 0px;
+		}
+		#left { left: 0; }
+		#right { right: 0; }
+		
+	#top, #bottom {
+		left: 0; right: 0;
+		height: 0px;
+		}
+		#top { top: 0; }
+		#bottom { bottom: 0; }
+		
+
+  h2{ 
+	position:fixed ; 
+      width: 1255px;
+    	height: 150px;
+    	text-align: center;
+    	color: black;
+    	top: 550px;
+    	left: 600px;
+    	font-family:cursive;
+    	font-size: 35px;
+}
+		
