@@ -27,6 +27,7 @@ img {
    background-repeat: no-repeat;
    top: 100px;
    right: 1055px;
+   float: left;
 }
 
 .speech
