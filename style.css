@@ -6,8 +6,8 @@ h1 {
    background-repeat: repeat;
    background-position: center;
    margin: 1px;
-   width: 2590px;
-   height: 90px;
+   width: 1900px;
+   height: 60px;
   }
 	 
 body{
@@ -26,14 +26,15 @@ img {
    position: fixed;
    background-repeat: no-repeat;
    top: 100px;
-   right: 1085px;
+   right: 1055px;
+   float: left;
 }
 
 .speech
 {
 	position: fixed;
-	width: 300px;
-	height: 50px;
+	width: 150px;
+	height: 45px;
 	text-align: center;
 	line-height: 50px;
 	background-color: #021a40;
@@ -41,8 +42,8 @@ img {
 	border-radius: 100px;
 	box-shadow: 1px 1px 1px #888;
 	color: white;
-	top: 325px;
-	left: 620px;
+	top: 435px;
+	left: 690px;
 	font-family:'Sancreek',cursive;
     }
     
@@ -101,18 +102,20 @@ font-family: FontAwesome;
     {
 
       position:fixed ; 
-      width: 700px;
-    	height: 600px;
+      width: 970px;
+    	height: 410px;
     	text-align: center;
-    	line-height: 40px;
+    	line-height: 50px;
     	background-color: #FF6666;
     	border:8px solind- #666;
     	border-radius: 40px;
     	box-shadow: 11px 8px 7px #888;
-    	color: White;
-    	top: 85px;
-    	left: 1830px;
+    	color: Black;
+    	top: 75px;
+    	left: 880px;
     	font-family:'Sancreek',cursive;
+    	background-size: cover;
+    	font-size:45;
     }
 
 
@@ -137,19 +140,20 @@ input[type=submit] {
     {
 
       position:fixed ; 
-      width: 700px;
-    	height: 600px;
-    	text-align: left;
-    	line-height: 600px;
+      width: 550px;
+    	height: 150px;
+    	text-align: center;
+    	line-height: 30px;
     	background-color: #FF6666;
     	border:8px solind- #666;
     	border-radius: 40px;
     	box-shadow: 11px 8px 7px #888;
     	color: Blue;
-    	top: 495px;
-    	left: 750px;
+    	top: 550px;
+    	left: 50px;
     	font-family:'Sancreek',cursive;
     	background-image:url(PopcornTime-icon.png);
+    	font-size: 20px;
     }
     #top, #bottom, #left, #right {
 	border:8px #a5ebff;
@@ -171,4 +175,15 @@ input[type=submit] {
 		#bottom { bottom: 0; }
 		
 
+  h2{ 
+	position:fixed ; 
+      width: 1255px;
+    	height: 150px;
+    	text-align: center;
+    	color: black;
+    	top: 550px;
+    	left: 600px;
+    	font-family:cursive;
+    	font-size: 35px;
+}
 		
