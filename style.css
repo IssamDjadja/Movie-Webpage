@@ -102,19 +102,20 @@ font-family: FontAwesome;
     {
 
       position:fixed ; 
-      width: 700px;
-    	height: 240px;
+      width: 970px;
+    	height: 410px;
     	text-align: center;
-    	line-height: 40px;
+    	line-height: 50px;
     	background-color: #FF6666;
     	border:8px solind- #666;
     	border-radius: 40px;
     	box-shadow: 11px 8px 7px #888;
-    	color: White;
+    	color: Black;
     	top: 75px;
     	left: 880px;
     	font-family:'Sancreek',cursive;
     	background-size: cover;
+    	font-size:45;
     }
 
 
@@ -139,17 +140,17 @@ input[type=submit] {
     {
 
       position:fixed ; 
-      width: 510px;
-    	height: 110px;
+      width: 550px;
+    	height: 150px;
     	text-align: center;
-    	line-height: 25px;
+    	line-height: 30px;
     	background-color: #FF6666;
     	border:8px solind- #666;
     	border-radius: 40px;
     	box-shadow: 11px 8px 7px #888;
     	color: Blue;
-    	top: 385px;
-    	left: 880px;
+    	top: 550px;
+    	left: 50px;
     	font-family:'Sancreek',cursive;
     	background-image:url(PopcornTime-icon.png);
     	font-size: 20px;
@@ -174,5 +175,15 @@ input[type=submit] {
 		#bottom { bottom: 0; }
 		
 
-
+  h2{ 
+	position:fixed ; 
+      width: 1255px;
+    	height: 150px;
+    	text-align: center;
+    	color: black;
+    	top: 550px;
+    	left: 600px;
+    	font-family:cursive;
+    	font-size: 35px;
+}
 		
