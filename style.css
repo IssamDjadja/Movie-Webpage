@@ -6,8 +6,8 @@ h1 {
    background-repeat: repeat;
    background-position: center;
    margin: 1px;
-   width: 2590px;
-   height: 90px;
+   width: 1900px;
+   height: 60px;
   }
 	 
 body{
@@ -26,7 +26,7 @@ img {
    position: fixed;
    background-repeat: no-repeat;
    top: 100px;
-   right: 1085px;
+   right: 1055px;
 }
 
 .speech
@@ -42,7 +42,7 @@ img {
 	box-shadow: 1px 1px 1px #888;
 	color: white;
 	top: 435px;
-	left: 680px;
+	left: 690px;
 	font-family:'Sancreek',cursive;
     }
     
