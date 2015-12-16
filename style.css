@@ -2,12 +2,12 @@ h1 {
    font-family:'Sancreek',cursive;
    text-align: center;
    Color: white ;
-   background: url(blue.jpg);
+   background: url(blue.jpg) ;
    background-repeat: repeat;
    background-position: center;
    margin: 1px;
-   width: 100%;
-   height: 200%;
+   width: 2590px;
+   height: 90px;
   }
 	 
 body{
