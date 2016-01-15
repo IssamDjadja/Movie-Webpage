@@ -24,7 +24,6 @@ img {
    padding:1px;
    border:5px solid #021a40;
    background-color:#ff0;
-   position: fixed;
    background-repeat: no-repeat;
    top: 120px;
    right: 1085px;
@@ -192,7 +191,9 @@ font-family: FontAwesome;
     	font-size: 35px;
 }
 
-
+.video{
+    right: 300px;
+}
 
 
 
