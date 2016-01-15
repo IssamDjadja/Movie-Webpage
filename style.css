@@ -128,12 +128,17 @@ font-family: FontAwesome;
   background-clip: text;
 }
 
-input[type=submit] {
+#submit {
    padding:5px 25px; 
     background:#FFFF00; 
     border:0 none;
     cursor:pointer;
-   border-radius: 7px; 
+   border-radius: 7px;
+  -webkit-animation-name: button;
+}
+@-webkit-keyframes button {
+ from {background-color: yellow;}
+    to {background-color: blue;}
 }
 
  .speech3
