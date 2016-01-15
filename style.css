@@ -133,9 +133,8 @@ input[type=submit] {
     border:0 none;
     cursor:pointer;
    border-radius: 7px; 
-}
-
- .speech3
+    }
+.speech3
     {
 
       position:fixed ; 
@@ -186,9 +185,6 @@ input[type=submit] {
     	font-size: 35px;
 }
 
-.video{
-    right: 300px;
-}
 
 
 
