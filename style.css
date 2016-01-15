@@ -127,7 +127,7 @@ font-family: FontAwesome;
   background-clip: text;
 }
 
-#submit {
+submit {
    padding:5px 25px; 
     background:#FFFF00; 
     border:0 none;
