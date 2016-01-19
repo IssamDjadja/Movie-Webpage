@@ -1,9 +1,8 @@
 h1 {
-   font-family:'Sancreek'
-   ,cursive;
+   font-family:'Sancreek', cursive;
    text-align: center;
    Color: white ;
-   background: url(blue.jpg) ;
+   background: linear-gradient(to left, blue, white);
    background-repeat: repeat;
    background-position: center;
    margin: 1px;
@@ -15,7 +14,7 @@ body{
 font-size:24px;
 font-weight:bold;
 width:100%;
-background: url(color.png) no-repeat center center fixed ; 
+background: linear-gradient(to left, yellow, violet, blue);
 height:100%;
 background-size: cover;
 }
