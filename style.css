@@ -1,5 +1,6 @@
 h1 {
-   font-family:'Sancreek',cursive;
+   font-family:'Sancreek'
+   ,cursive;
    text-align: center;
    Color: white ;
    background: url(blue.jpg) ;
@@ -99,7 +100,6 @@ font-family: FontAwesome;
     
     .speech2
     {
-
       position:fixed ; 
       width: 970px;
     	height: 410px;
@@ -127,14 +127,22 @@ font-family: FontAwesome;
   background-clip: text;
 }
 
-input[type=submit] {
+submit {
    padding:5px 25px; 
     background:#FFFF00; 
     border:0 none;
     cursor:pointer;
-   border-radius: 7px; 
-    }
-.speech3
+
+   border-radius: 7px;
+  -webkit-animation-name: button;
+}
+@-webkit-keyframes button {
+ from {background-color: yellow;}
+    to {background-color: blue;}
+}
+
+ .speech3
+
     {
 
       position:fixed ; 
@@ -185,6 +193,10 @@ input[type=submit] {
     	font-size: 35px;
 }
 
+.video{
+    right: 300px;
+    top: 400px;
+}
 
 
 
