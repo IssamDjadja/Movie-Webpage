@@ -126,18 +126,6 @@ font-family: FontAwesome;
   background-clip: text;
 }
 
-Submit {
-   padding: 5px 25px; 
-    background-color: red; 
-    cursor: pointer;
-border-radius: 7px;
-animation-name: Submit;
-animation-duration: 10s;
-}
-@keyframes Submit {
-    from {background-color: red;}
-    to {background-color: yellow;}
-}
 
  .speech3
 
@@ -159,6 +147,7 @@ animation-duration: 10s;
     	background-image:url(PopcornTime-icon.png);
     	font-size: 20px;
     }
+    /*This animation causes text to move throughout the screen I used right, left, bottom and width to make the text move infinitely.*/
     #top, #bottom, #left, #right {
 	border:8px #a5ebff;
 	border-style: solid;
