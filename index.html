@@ -7,6 +7,7 @@
     <title>CSS Basics</title>
 <link rel="stylesheet" href="style.css" type="text/css">
   <link href='https://fonts.googleapis.com/css?family=Sancreek' rel='stylesheet' type='text/css'>
+  
 </head>
   <body>
 <div id="left"></div>
@@ -29,6 +30,22 @@
  <label class="star star-1" for="star-1"></label>
  
 <input id = "submit" type="submit" value="Submit">
+  <style> 
+submit {
+padding:5px 25px; 
+border:0 none;
+cursor:pointer;
+background-color:yellow;
+border-radius: 7px;
+animation-name: submit;
+animation-iteration-count: infinite;
+animation-duration: 3s;
+}
+@keyframes submit{ 
+from {background-color: yellow;}
+to {background-color: red;}
+}
+</style>
 </form>
 </div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Planking_in_supermarket.jpg" width="600" height="300" alt="Supermarket">
